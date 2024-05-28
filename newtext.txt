@@ -1,1 +1,0 @@
-git checkout: takes you inside of the directory you are checking out.

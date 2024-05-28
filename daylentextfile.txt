@@ -1,1 +1,7 @@
 git commmit, saves changes done to the branch your currently in.
+
+git rebase = "merges commits into a single, linear branch"
+
+git checkout: takes you inside of the directory you are checking out.
+
+"git add: adds the content of specified files at the time the add command is run"
