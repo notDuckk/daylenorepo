@@ -1,0 +1,9 @@
+# Header
+
+"Hello"
+
+## Subheader
+
+"What's Up?"
+
+git rebase = "merges commits into a single, linear branch"
